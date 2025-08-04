@@ -18,8 +18,6 @@ Gym AI is an intelligent agent designed to be your ultimate fitness partner. It 
 
 ## Getting Started
 
-*(This section will depend on how users will access or "run" your AI agent. Here are a few common scenarios. Choose the one that fits best, or combine elements if needed.)*
-
 ### For Users (e.g., if it's a web app, mobile app, or chatbot)
 
 To start your fitness journey with Gym AI:
